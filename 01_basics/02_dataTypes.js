@@ -1,6 +1,6 @@
 "use strict"  // Treat all js code as newer version
 
-//alert(3+3)  // we are usingh m nodejs, not browser
+// alert(3+3)  // we are usingh m nodejs, not browser
 
 console.log(3
     +
