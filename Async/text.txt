@@ -1,0 +1,11 @@
+* JavaScript
+
+1.Synchronous (Execute one by one)
+2.Single Threaded (Ek hi threade pe sab kuch execute honga)
+
+* Execution Context
+Execute one line of code at a time 
+
+
+* Blocking code --> Block the flow of program --> Read File Sync
+  Non Blocking code --> Does not block Execution --> Read File Async
